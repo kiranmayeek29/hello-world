@@ -1,4 +1,6 @@
-class Hello
+/* Program to append and print strings inputted through command prompt*/
+
+public class Hello
 {
  public static void main(String args[])
   {
